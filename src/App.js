@@ -11,6 +11,7 @@ import Servicess from './components/Servicess';
 import Protfolio from './components/Protfolio';
 import Footer from './components/Footer';
 import ContactInfo from './components/ContactInfo';
+import NavBanner from './components/NavBanner';
 
 const App = () => {
   const [showMenu, setShowMenu] = useState(false)
@@ -23,18 +24,22 @@ const App = () => {
       <button className="hamberger" onClick={() => setShowMenu(!showMenu)} >
         <img src={hamberger} alt="" />
       </button>
+
       {menu}
       <header onClick={() => setShowMenu(false)} >
         <div className="container">
           <Navbar />
+          <NavBanner />
         </div>
       </header>
+
       <About />
       <Skill />
       <Servicess />
       <Protfolio />
       <ContactInfo />
       <Footer />
+
     </div>
   );
 }
