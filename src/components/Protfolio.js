@@ -7,7 +7,7 @@ const Protfolio = () => (
             <div className="section-title">
                 <span>PORTFOLIO</span>
             </div>
-            <h1 className="section-heading"></h1>
+            <h1 className="section-heading">{''}</h1>
             <p className="content">In this section, some samples of my work are given </p>
             <div className="card-wrapper">
                 <div className="card">

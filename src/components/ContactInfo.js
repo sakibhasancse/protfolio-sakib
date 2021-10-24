@@ -6,7 +6,7 @@ const ContactInfo = () => (
             <div className="section-title">
                 <span>CONTACTS</span>
             </div>
-            <h1 className="section-heading"></h1>
+            <h1 className="section-heading">{''}</h1>
             <p>In this section, my contact information .</p>
             <div className="card-wrapper">
                 <div className="card">
