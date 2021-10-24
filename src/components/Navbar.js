@@ -1,12 +1,12 @@
-import React from 'react'
+import React from 'react';
+import Resume from '../assets/Resume of Sakib Hasan.pdf'
 
-const navbar = () => {
+const Navbar = () => {
     return (
         <nav id="main-nav" className="flex items-center justify-between">
             <div className="left flex items-center">
                 <div className="branding">
                     <i class="fa fa-superpowers supericon" aria-hidden="true"></i>
-
                 </div>
                 <div>
 
@@ -20,13 +20,10 @@ const navbar = () => {
             </div>
 
             <div className="right">
-
-                <button className="btn btn-secondary">
-                    RESUME
-              </button>
+                <a href={Resume} className="btn btn-primary">RESUME</a>
             </div>
         </nav>
     )
 }
 
-export default navbar
+export default Navbar
