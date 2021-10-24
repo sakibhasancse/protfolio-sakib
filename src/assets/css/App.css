@@ -58,7 +58,6 @@
 body {
   font-family: "Lato", sans-serif;
   background: var(--bg);
-  
 }
 html {
   scroll-behavior: smooth;
@@ -71,10 +70,8 @@ html {
 }
 header {
   background: var(--bg);
-  
 }
 .container {
-  
   margin: 0 auto;
   max-width: 1152px;
   padding: 0 15px;
@@ -118,19 +115,19 @@ header nav {
   padding: 2rem 0;
 }
 
- .mobile-nav .information   {
+.mobile-nav .information {
   margin-right: 3rem;
   font-size: 3rem;
 }
- .mobile-nav .information .fa {
-    color: #1d293a;
+.mobile-nav .information .fa {
+  color: #1d293a;
 }
- .mobile-nav .information  a{
-       color: #1d293a;
-  padding-bottom:rem
+.mobile-nav .information a {
+  color: #1d293a;
+  padding-bottom: rem;
 }
 
-header nav .branding  {
+header nav .branding {
   margin-right: 3rem;
   font-size: 3rem;
 }
@@ -138,7 +135,6 @@ header nav .branding .fa {
   color: var(--primary);
 }
 .hero {
-  
   align-items: center;
   min-height: 100vh;
   padding: 3rem 0;
@@ -170,7 +166,7 @@ header nav .branding .fa {
   display: flex;
   list-style: none;
   color: aliceblue;
-  font-size:20px;
+  font-size: 20px;
   padding-bottom: 2rem;
 }
 .hero .right ul li {
@@ -192,18 +188,17 @@ header nav .branding .fa {
   border-bottom: 2px solid var(--primary);
   font-size: 1.2rem;
   padding-bottom: 9px;
-  border-radius:20px;
-  padding:1rem 1rem;
-  -webkit-border-radius:20px;
-  -moz-border-radius:20px;
-  -ms-border-radius:20px;
-  -o-border-radius:20px;
+  border-radius: 20px;
+  padding: 1rem 1rem;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
 }
-.copy-right  {
+.copy-right {
   margin-bottom: 10px;
 }
 section {
-  
   padding: 3rem 0;
 }
 
@@ -778,20 +773,18 @@ section.contact .btn-wrappeer {
 }
 
 footer {
-
   background: var(--titile);
   text-align: center;
   color: white;
-  padding-bottom:  1rem;
+  padding-bottom: 1rem;
 }
 footer h3 {
   opacity: 0.4;
-
 }
 footer .fa {
-  padding:4px;
-   box-shadow: 0 4px 8px 0 var(--bg);
-    transition: 0.3s;
+  padding: 4px;
+  box-shadow: 0 4px 8px 0 var(--bg);
+  transition: 0.3s;
   /* border: 4px solid var(--primary); */
   font-size: 34px;
   opacity: 0.5;
@@ -946,9 +939,9 @@ footer .copy-right {
 .mobile-nav ul {
   list-style-type: none;
 }
- .header-button a{
-    text-decoration: none;
-  }
+.header-button a {
+  text-decoration: none;
+}
 @media (max-width: 1024px) {
   header #main-nav {
     display: none;
@@ -1094,7 +1087,6 @@ footer .copy-right {
     /* margin-right: -9rem; */
     padding-bottom: 20rem;
   }
- 
 
   .mobile-aboute {
     flex-direction: column;
