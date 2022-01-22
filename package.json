@@ -2,7 +2,7 @@
   "name": "protfolio",
   "version": "0.1.0",
   "private": true,
-  "hommpage": "https://sakibhasancse.github.io",
+  "hommpage": "https://sakibhasancse.github.io/protfolio-sakib",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-solid-svg-icons": "^5.14.0",
