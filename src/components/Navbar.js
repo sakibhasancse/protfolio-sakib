@@ -1,6 +1,5 @@
 import React from 'react';
 import Resume from '../assets/Resume of Sakib Hasan.pdf'
-import { Link } from 'react-router-dom'
 
 const Navbar = () => {
     return (
@@ -19,7 +18,7 @@ const Navbar = () => {
             </div>
 
             <div className="right">
-                <Link to={Resume} className="btn btn-primary underline">Download CV</Link>
+                <a href={Resume} target="_blank" className="btn btn-primary underline">Download CV</a>
             </div>
         </nav>
     )
