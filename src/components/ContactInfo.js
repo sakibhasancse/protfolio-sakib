@@ -7,23 +7,23 @@ const ContactInfo = () => (
                 <span>CONTACTS</span>
             </div>
             <h1 className="section-heading">{''}</h1>
-            <p>In this section, my contact information .</p>
+            <p></p>
             <div className="card-wrapper">
                 <div className="card">
                     <h1>Phone</h1>
-                    <h6>+8801763553147</h6>
+                    <span className="text-white">+8801763553147</span>
                 </div>
                 <div className="card">
                     <h1>Email</h1>
-                    <h6>me.sakib20@gmail.com</h6>
+                    <span className="text-white">me.sakib20@gmail.com</span>
                 </div>
                 <div className="card">
                     <h1>Social</h1>
-                    <h6>Twitter/Facebook-@SakibHasanCse</h6>
+                    <span className="text-white">Twitter/Facebook-@SakibHasanCse</span>
                 </div>
                 <div className="card">
                     <h1>Location</h1>
-                    <h6>Dhaka,Gazipur-1700,Bangladesh </h6>
+                    <span className="text-white">Dhaka,Gazipur-1700,Bangladesh </span>
                 </div>
             </div>
             <form>

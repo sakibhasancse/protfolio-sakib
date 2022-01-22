@@ -8,7 +8,7 @@ const Protfolio = () => (
                 <span>PORTFOLIO</span>
             </div>
             <h1 className="section-heading">{''}</h1>
-            <p className="content">In this section, some samples of my work are given </p>
+            <p className="content"></p>
             <div className="card-wrapper">
                 <div className="card">
                     <div className="img-wrapper">

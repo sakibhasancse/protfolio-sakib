@@ -17,39 +17,39 @@ const Servicess = () => {
                             <span>Experience</span>
                         </div>
                     </div>
-                    <p>In this section, I have experience in  the work .</p>
+                    <p></p>
                     <div className="card-wrapper">
                         <div className="card">
                             <img src={brush} alt="" />
                             <h2>API Development</h2>
-                            <p>i have a good experience in Rest api Development.</p>
+                            <p>An application programming interface is a connection between computers or between computer programs. It is a type of software interface, offering a service to other pieces of software.</p>
                         </div>
 
                         <div className="card">
                             <img src={brush2} alt="" />
                             <h2>Database Schema</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, autem.</p>
+                            <p>The database schema is its structure described in a formal language supported by the database management system.</p>
                         </div>
                         <div className="card">
                             <img src={brush3} alt="" />
                             <h2>Authentication</h2>
-                            <p>I use Passport.js and JWT  with Node.js because it simplifies the authorization stage </p>
+                            <p>Authentication is knowing the identity of the user. For example, Alice logs in with her username and password, and the server uses the password to authenticate Alice. </p>
                         </div>
                         <div className="card">
                             <img src={brush4} alt="" />
                             <h2>Error handling </h2>
-                            <p>the error we can inform the user with a message, or we can halt the execution altogether.</p>
+                            <p>Error handling refers to the anticipation, detection, and resolution of programming, application, and communications errors.</p>
                         </div>
                         <div className="card">
                             <img src={brush5} alt="" />
                             <h2>Code Tasting</h2>
-                            <p> I use Mocha and Chai to test the Node JS application. </p>
+                            <p> Testing also helps you to reduce the amount of code you are writing for a particular feature. After testing. </p>
                         </div>
 
                         <div className="card">
                             <img src={brush1} alt="" />
                             <h2>Debug code</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, autem.</p>
+                            <p>Debug code is computer code introduced to a computer program to test for errors or to help determine the cause of an error.</p>
                         </div>
                     </div>
                 </div>

@@ -387,61 +387,36 @@ section.skills .card-wrapper .card .graphic {
   border-radius: 2px;
   background: var(--primary) !important;
 }
-section.skills .card-wrapper .card .graphic_2 {
+section.skills .card-wrapper .card .graphic {
   height: 100%;
   display: flow-root;
+  border-radius: 2px;
+  background: var(--primary) !important;
+}
+
+section.skills .card-wrapper .card .percentage_95 {
+  width: 95%;
+}
+section.skills .card-wrapper .card .percentage_100 {
+  width: 100%;
+}
+section.skills .card-wrapper .card .percentage_90 {
   width: 90%;
-  border-radius: 2px;
-  background: var(--primary) !important;
 }
-section.skills .card-wrapper .card .graphic_3 {
-  height: 100%;
-  display: flow-root;
-  width: 90%;
-  border-radius: 2px;
-  background: var(--primary) !important;
-}
-section.skills .card-wrapper .card .graphic_4 {
-  height: 100%;
-  display: flow-root;
-  width: 75%;
-  border-radius: 2px;
-  background: var(--primary) !important;
-}
-section.skills .card-wrapper .card .graphic_5 {
-  height: 100%;
-  display: flow-root;
+section.skills .card-wrapper .card .percentage_85 {
   width: 85%;
-  border-radius: 2px;
-  background: var(--primary) !important;
 }
-section.skills .card-wrapper .card .graphic_6 {
-  height: 100%;
-  display: flow-root;
+section.skills .card-wrapper .card .percentage_50 {
   width: 50%;
-  border-radius: 2px;
-  background: var(--primary) !important;
 }
-section.skills .card-wrapper .card .graphic_7 {
-  height: 100%;
-  display: flow-root;
-  width: 90%;
-  border-radius: 2px;
-  background: var(--primary) !important;
+section.skills .card-wrapper .card .percentage_75 {
+  width: 75%;
 }
-section.skills .card-wrapper .card .graphic_8 {
-  height: 100%;
-  display: flow-root;
+section.skills .card-wrapper .card .percentage_70 {
   width: 70%;
-  border-radius: 2px;
-  background: var(--primary) !important;
 }
-section.skills .card-wrapper .card .graphic_9 {
-  height: 100%;
-  display: flow-root;
+section.skills .card-wrapper .card .percentage_80 {
   width: 80%;
-  border-radius: 2px;
-  background: var(--primary) !important;
 }
 
 /* service */
@@ -1140,4 +1115,8 @@ footer .copy-right {
   section.contact .input-wrap-2 {
     grid-template-columns: repeat(1, 1fr);
   }
+}
+
+.text-white {
+  color: rgb(232, 226, 226);
 }
