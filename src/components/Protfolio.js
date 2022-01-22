@@ -16,7 +16,7 @@ const Protfolio = () => (
                     </div>
                     <div className="card-content">
                         <a className="title" href="/">Excenge Mony</a>
-                        <p class="content">A Application is Collection of Exchenge  Your Doller Or Tk Buye Card Or Bd Accounte</p>
+                        <p class="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
                         <i className="fa fa-github"> </i>
                         <i class="fa fa-external-link" aria-hidden="true"></i>
                     </div>
@@ -27,7 +27,7 @@ const Protfolio = () => (
                     </div>
                     <div className="card-content">
                         <a className="title" href="/">Excenge Mony</a>
-                        <p class="content"> A Application is Collection of Exchenge  Your Doller Or Tk Buye Card Or Bd Accounte</p>
+                        <p class="content"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
                         <i className="fa fa-github"></i><i class="fa fa-external-link" aria-hidden="true"></i>
                     </div>
                 </div>
@@ -38,7 +38,7 @@ const Protfolio = () => (
                     </div>
                     <div className="card-content">
                         <a className="title" href="/">Excenge Mony</a>
-                        <p class="content">A Application is Collection of Exchenge  Your Doller Or Tk Buye Card Or Bd Accounte
+                        <p class="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
                             </p>
                         <i className="fa fa-github"></i><i class="fa fa-external-link" aria-hidden="true"></i>
                     </div>
@@ -48,7 +48,7 @@ const Protfolio = () => (
                     </div>
                     <div className="card-content">
                         <a className="title" href="/">Excenge Mony</a>
-                        <p class="content">A Application is Collection of Exchenge  Your Doller Or Tk Buye Card Or Bd Accounte
+                        <p class="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
                             </p>
                         <i className="fa fa-github"></i>
                         <i className="fa fa-github"></i>
@@ -60,7 +60,7 @@ const Protfolio = () => (
                     </div>
                     <div className="card-content">
                         <a className="title" href="/">Excenge Mony</a>
-                        <p class="content">A Application is Collection of Exchenge  Your Doller Or Tk Buye Card Or Bd Accounte
+                        <p class="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
                             </p>
                         <i className="fa fa-github"></i><i class="fa fa-external-link" aria-hidden="true"></i>
                     </div>
@@ -71,7 +71,7 @@ const Protfolio = () => (
                     </div>
                     <div className="card-content">
                         <a className="title" href="/">Excenge Mony</a>
-                        <p class="content">A Application is Collection of Exchenge  Your Doller Or Tk Buye Card Or Bd Accounte
+                        <p class="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
                             </p>
                         <i className="fa fa-github"></i><i class="fa fa-external-link" aria-hidden="true"></i>
                     </div>

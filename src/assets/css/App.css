@@ -394,28 +394,28 @@ section.skills .card-wrapper .card .graphic {
   background: var(--primary) !important;
 }
 
-section.skills .card-wrapper .card .percentage_95 {
+.percentage_95 {
   width: 95%;
 }
-section.skills .card-wrapper .card .percentage_100 {
+.percentage_100 {
   width: 100%;
 }
-section.skills .card-wrapper .card .percentage_90 {
+.percentage_90 {
   width: 90%;
 }
-section.skills .card-wrapper .card .percentage_85 {
+.percentage_85 {
   width: 85%;
 }
-section.skills .card-wrapper .card .percentage_50 {
+.percentage_50 {
   width: 50%;
 }
-section.skills .card-wrapper .card .percentage_75 {
+.percentage_75 {
   width: 75%;
 }
-section.skills .card-wrapper .card .percentage_70 {
+.percentage_70 {
   width: 70%;
 }
-section.skills .card-wrapper .card .percentage_80 {
+.percentage_80 {
   width: 80%;
 }
 
@@ -1119,4 +1119,8 @@ footer .copy-right {
 
 .text-white {
   color: rgb(232, 226, 226);
+}
+
+.underline {
+  text-decoration:none
 }
