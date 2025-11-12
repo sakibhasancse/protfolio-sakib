@@ -18,7 +18,7 @@ const projects = [
     link: "https://github.com/sakibhasancse/ChatWithMe",
   },
   {
-    title: "Blog Application (Your Blog)",
+    title: "Your Blog",
     date: "Feb 2021 - Apr 2023",
     description:
       "Dynamic blog platform with publishing and feed features, demonstrating content workflows and CMS patterns.",
