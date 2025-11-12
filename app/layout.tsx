@@ -32,7 +32,7 @@ export const metadata = {
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
-    <html lang="en" className="light" style={{ "color-scheme": "light" }}>
+    <html lang="en" className="light" style={{ colorScheme: "light" }}>
       <body>
         <ThemeProviderWrapper>{children}</ThemeProviderWrapper>
       </body>
