@@ -19,7 +19,7 @@ export const metadata = {
     siteName: "Sakib Hasan Portfolio",
     images: [
       {
-        url: "https://github.com/sakibhasancse/protfolio-sakib/blob/master/public/sakib.jpeg",
+        url: "https://sakib-hasan.vercel.app/sakib.jpeg",
         width: 1200,
         height: 630,
         alt: "Sakib Hasan",
